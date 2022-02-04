@@ -17,3 +17,5 @@ plt.xticks(intervalos)
 plt.ylabel('Dias acumulados')
 plt.xlabel('Lluvia (mm)')
 plt.title('Histograma de lluvia')
+
+plt.savefig("C:/Users/andrea/Desktop/Data_Science/Data_Life_Cycle/figure.png")
